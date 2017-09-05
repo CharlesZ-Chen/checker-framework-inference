@@ -4,6 +4,7 @@ Status of Master
 [![Build Status](https://travis-ci.org/CharlesZ-Chen/checker-framework-inference.png?branch=master)](https://travis-ci.org/CharlesZ-Chen/checker-framework-inference)
 
 
+
 Checker Framework Inference README
 ==================================
 
